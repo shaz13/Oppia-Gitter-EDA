@@ -1,6 +1,6 @@
 # Oppia-Gitter-EDA
 Exploratory Data Analysis on Gitter channel Oppia
-**Exploratory Data Analysis**** ****on**** **oppia-chat**
+**Exploratory Data Analysis** ****on**** **oppia-chat**
 
 **Questions to Solve:**
 
@@ -20,7 +20,7 @@ Exploratory Data Analysis on Gitter channel Oppia
 
 **Number of Contributors dropping off:**
 
-After analysing the channel data from the Gitter API it was found that there are **209 **active users since 2017. And, taking threshold of inactiveness for **218** days there are **105** dropped users which is about **50.24%** of total active users since 2017.
+After analysing the channel data from the Gitter API it was found that there are 209 active users since 2017. And, taking threshold of inactiveness for **218** days there are **105** dropped users which is about **50.24%** of total active users since 2017.
 
 **Helping with new contributor**
 
@@ -40,7 +40,7 @@ The intersected list of the top-30 users from two lists is as follows
 
 **Ratio of helpers to askers**
 
-In progress. The ratio of number of questions to normal text chat is** 29.2%**
+In progress. The ratio of number of questions to normal text chat is **29.2%**
 
 (Here, a **question** is defined as: …)
 
