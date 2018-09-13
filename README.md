@@ -1,5 +1,7 @@
 # Oppia-Gitter-EDA
-Exploratory Data Analysis on Gitter channel Oppia. Here's a short summary. For complete code and approach have a look at the notebooks. For a brief code and notebook summary please visit [here.](https://shaz13.github.io/Oppia-Gitter-EDA/Oppia%2BGitter%2BChatroom%2BReport.html)
+Exploratory Data Analysis on Gitter channel Oppia. Here's a short summary. For complete code and approach have a look at the notebooks. 
+
+### For a brief code and notebook summary please visit [here.](https://shaz13.github.io/Oppia-Gitter-EDA/Oppia%2BGitter%2BChatroom%2BReport.html)
 
 
 
